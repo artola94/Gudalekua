@@ -1,0 +1,44 @@
+# Data files (too large for git)
+*.csv
+data/nzz-maps-master/
+data/Russia-Ukraine-main/
+
+# Generated model files
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter notebooks
+notebooks/
+*.ipynb
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
